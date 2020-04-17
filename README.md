@@ -22,11 +22,8 @@
       re_try = 50 # 服务器错误之后重新尝试的次数 默认50次
       Your_website = "xxxxxxxx" # the url record in your baidu_website
       Your_token = "xxxxxxxx" # find it in your baidu_token
-<<<<<<< HEAD
-      sleep_time = 1 # 默认每隔1秒请求一次
-=======
       sleep_time = 1 # 默认错误后每隔1秒请求一次
->>>>>>> 1fbc1064cf532623eca629b42f5b0713a088be8c
+
       ```
 
       
@@ -47,16 +44,10 @@
 
 ## What`s More
 
-<<<<<<< HEAD
- SEO 优化中涉及到Google几年前提出的经典算法 page rank，是通过网站 节点入度和出度数，以及关联网站质量来评判网站好坏的。
 
-SEO 优化 首先提升自己文章质量，每天主动推送一下，还可以关联一些友站，提高你网络节点的权重，加速网站收录
-
-=======
 SEO 优化中涉及到Google几年前提出的经典算法 page rank，是通过网站 节点入度和出度数，以及关联网站质量来评判网站好坏的。
 
 SEO 优化 首先提升自己文章质量，每天主动推送一下，还可以关联一些友站，提高你网络节点的权重，加速网站收录
 
 主动推送最好别推送重复链接，搜索引擎可能会觉得你作弊，影响评分
 
->>>>>>> 1fbc1064cf532623eca629b42f5b0713a088be8c
