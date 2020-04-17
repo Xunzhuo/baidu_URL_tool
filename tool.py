@@ -9,13 +9,10 @@ import logging
 
 re_try = 50 # 服务器错误之后重新尝试的次数 默认50次
 sleep_time = 1 # 服务器错误后默认每隔1秒请求一次
-<<<<<<< HEAD
+
 Your_website = "www.liuxunzhuo.tech" # the url record in your baidu_website
 Your_token = "ek5T1WJ6SXqZgoKU" # find it in your baidu_token
-=======
-Your_website = "xxxxxx" # the url record in your baidu_website
-Your_token = "xxxxxx" # find it in your baidu_token
->>>>>>> 1fbc1064cf532623eca629b42f5b0713a088be8c
+
 
 
 logging.basicConfig(level = logging.INFO, format = '%(asctime)s -%(levelname)s - %(message)s')
