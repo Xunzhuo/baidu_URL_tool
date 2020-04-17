@@ -1,9 +1,1 @@
-www.liuxunzhuo.tech/convolution.html
-www.liuxunzhuo.tech/Gitflow.html
-www.liuxunzhuo.tech/Git1.html
-www.liuxunzhuo.tech/Git2.html
-www.liuxunzhuo.tech/Git3.html
-www.liuxunzhuo.tech/markdown1.html
-www.liuxunzhuo.tech/markdown2.html
-www.liuxunzhuo.tech/intro.html
-www.liuxunzhuo.tech/2020.html
+
