@@ -15,7 +15,17 @@
 2. 只需要将 
 
    1. 你在百度站长注册的网站
+
    2. 主动推送的token给替换代码中指定的部分即可
+
+      ``` python
+      re_try = 50 # 服务器错误之后重新尝试的次数 默认50次
+      Your_website = "xxxxxxxx" # the url record in your baidu_website
+      Your_token = "xxxxxxxx" # find it in your baidu_token
+      sleep_time = 1 # 默认每隔1秒请求一次
+      ```
+
+      
 
 3. 然后将url 以每行一条的格式写入 urls.txt文件
 
@@ -28,3 +38,6 @@
    ```
 
    即可自动执行
+
+这是个简单的脚本，不必多言了。
+
