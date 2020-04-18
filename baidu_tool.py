@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
-
+# tool used for repeat submit urls
 __author__ = '1900'
 
 import os
